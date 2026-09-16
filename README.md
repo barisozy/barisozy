@@ -1,5 +1,3 @@
-<div align="center">
-
 # Salih Barış Özay
 
 **Software Developer**
@@ -7,8 +5,6 @@
 Full-stack software developer with a strong backend focus, working primarily with **C# / .NET**, **ASP.NET Core** and **Angular**.
 
 I focus on building maintainable, testable and observable applications with clear architectural boundaries and reliable software delivery practices.
-
-</div>
 
 ---
 
