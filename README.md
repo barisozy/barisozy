@@ -10,10 +10,10 @@ I focus on building maintainable, testable and observable applications with clea
 
 ## Tech
 
-`C#` · `.NET` · `ASP.NET Core` · `EF Core`
-`Angular` · `TypeScript`
-`PostgreSQL` · `SQL Server` · `Redis`
-`Docker` · `GitHub Actions` · `OpenTelemetry` · `Serilog`
+`C#` · `.NET` · `ASP.NET Core` · `EF Core` ·
+`Angular` · `TypeScript` ·
+`PostgreSQL` · `SQL Server` · `Redis` ·
+`Docker` · `GitHub Actions` · `OpenTelemetry` · `Serilog` ·
 `Clean Architecture` · `DDD` · `CQRS` · `Modular Monoliths`
 
 ---
