@@ -2,9 +2,9 @@
 
 **Software Developer**
 
-Full-stack software developer with a strong backend focus, working primarily with **C# / .NET**, **ASP.NET Core**, and **Angular**.
+Full-stack software developer with a strong backend focus, working primarily with **C# / .NET**, **ASP.NET Core** and **Angular**.
 
-I focus on building maintainable, testable, and observable applications with clear architectural boundaries and reliable software delivery practices.
+I focus on building maintainable, testable and observable applications with clear architectural boundaries and reliable software delivery practices.
 
 ### Tech
 
@@ -22,7 +22,7 @@ I focus on building maintainable, testable, and observable applications with cle
 
 **[E-Commerce Microservices Reference Architecture](https://github.com/barisozy/microservices-clean-architecture)**
 
-A .NET 10 / C# 14 microservices reference platform exploring event-driven communication, gRPC, transactional messaging, observability, testing, CI/CD, and software supply-chain security.
+A .NET 10 / C# 14 microservices reference platform exploring event-driven communication, gRPC, transactional messaging, observability, testing, CI/CD and software supply-chain security.
 
 ### Links
 
