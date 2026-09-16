@@ -1,16 +1,29 @@
-## Hi there 👋
+# Salih Barış Özay
 
-<!--
-**barisozy/barisozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer**
 
-Here are some ideas to get you started:
+Full-stack software developer with a strong backend focus, working primarily with **C# / .NET**, **ASP.NET Core**, and **Angular**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on building maintainable, testable, and observable applications with clear architectural boundaries and reliable software delivery practices.
+
+### Tech
+
+`C#` · `.NET` · `ASP.NET Core` · `EF Core`
+`Angular` · `TypeScript`
+`PostgreSQL` · `SQL Server` · `Redis`
+`Docker` · `GitHub Actions` · `OpenTelemetry` · `Serilog`
+`Clean Architecture` · `DDD` · `CQRS` · `Modular Monoliths`
+
+### Interests
+
+`Microservices` · `Distributed Systems` · `Event-Driven Architecture` · `RabbitMQ` · `MassTransit` · `gRPC` · `DevOps`
+
+### Featured Project
+
+**[E-Commerce Microservices Reference Architecture](https://github.com/barisozy/microservices-clean-architecture)**
+
+A .NET 10 / C# 14 microservices reference platform exploring event-driven communication, gRPC, transactional messaging, observability, testing, CI/CD, and software supply-chain security.
+
+### Links
+
+[Website](https://salihbarisozay.com) · [LinkedIn](https://linkedin.com/in/sbarisozay/)
