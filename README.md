@@ -26,6 +26,10 @@ I focus on building maintainable, testable and observable applications with clea
 
 ## Featured Project
 
+### [Clean Architecture](https://github.com/barisozy/clean-architecture)
+
+A pragmatic Clean Architecture foundation for modern .NET applications.
+
 ### [E-Commerce Microservices Reference Architecture](https://github.com/barisozy/microservices-clean-architecture)
 
 A .NET 10 / C# 14 microservices reference platform exploring event-driven communication, gRPC, transactional messaging, observability, testing, CI/CD and software supply-chain security.
