@@ -24,7 +24,7 @@ I focus on building maintainable, testable and observable applications with clea
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### [Clean Architecture](https://github.com/barisozy/clean-architecture)
 
