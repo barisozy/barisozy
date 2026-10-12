@@ -28,7 +28,7 @@ I focus on building maintainable, testable and observable applications with clea
 
 ### [Clean Architecture](https://github.com/barisozy/clean-architecture)
 
-A pragmatic Clean Architecture foundation for modern .NET applications.
+A pragmatic Clean Architecture solution template for modern .NET applications.
 
 ### [E-Commerce Microservices Reference Architecture](https://github.com/barisozy/microservices-clean-architecture)
 
